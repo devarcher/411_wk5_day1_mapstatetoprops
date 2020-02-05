@@ -9,7 +9,7 @@ export default {
   cars: [
     {
       id: 1,
-      Name: "chevrolet chevelle malibu",
+      Name: 'this is what 50 words look like in a material table.this is what 50 words look like in a material table.this is what 50 words look like in a material table.this is what 50 words look like in a material table.this is what 50 words look like in a material table.',
       Miles_per_Gallon: 18,
       Cylinders: 8,
       Displacement: 307,
